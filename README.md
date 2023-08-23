@@ -104,7 +104,7 @@ Empower your job search with the user-friendly Job Tracker application. Seamless
 
 The github URL containing the code for this project is located at:
 
-https://github.com/1alyciaoliveira/JobJourney/
+https://github.com/Maelikah/P3_JobJourney
 
 </br>
 
